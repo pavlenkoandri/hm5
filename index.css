@@ -1,0 +1,51 @@
+section {
+  padding: 0 235px;
+}
+li {
+  list-style-type: none;
+}
+.work {
+  text-align: center;
+}
+.braun {
+  text-align: center;
+}
+.reebok {
+  text-align: center;
+}
+.portfolio {
+  text-align: center;
+}
+.skills {
+  text-align: center;
+}
+
+.aboutme {
+  text-align: center;
+}
+.name {
+  text-align: center;
+}
+.avatar {
+  text-align: center;
+}
+.hra li {
+  margin-right: 15px;
+  text-align: center;
+}
+.hra {
+  display: flex;
+  justify-content: center;
+}
+.skills_aitem {
+  display: flex;
+  justify-content: space-between;
+}
+.skills_aitem li {
+  display: flex;
+  flex-direction: column;
+}
+a {
+  display: block;
+  text-align: center;
+}
